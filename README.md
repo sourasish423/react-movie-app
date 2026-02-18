@@ -5,6 +5,7 @@ Users can search movies, view details, and manage favorites.
 
 ---
 ##Live Demo
+[click this link for live demo]
 https://react-movie-app-pied-pi.vercel.app/
 
 --
