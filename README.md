@@ -4,6 +4,10 @@ A modern movie browsing application built with React and Vite.
 Users can search movies, view details, and manage favorites.
 
 ---
+##Live Demo
+https://react-movie-app-pied-pi.vercel.app/
+
+--
 
 ## 🚀 Features
 
